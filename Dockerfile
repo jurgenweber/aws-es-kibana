@@ -12,4 +12,4 @@ COPY index.js /app
 EXPOSE 9200
 
 ## need to bind eth0 inside container, not lo0
-ENTRYPOINT [ "aws-es-kibana", "-b", "0.0.0.0" ]
+ENTRYPOINT [ "node", "index.js", "-b", "0.0.0.0" ]
