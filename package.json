@@ -1,6 +1,6 @@
 {
   "name": "aws-es-kibana",
-  "version": "1.0.8-pre",
+  "version": "1.0.9",
   "description": "AWS ElasticSearch/Kibana Proxy",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/santthosh/aws-es-kibana.git"
+    "url": "git+https://github.com/jurgenweber/aws-es-kibana.git"
   },
   "keywords": [
     "AWS",
@@ -24,9 +24,9 @@
   "author": "santthosh",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/santthosh/aws-es-kibana/issues"
+    "url": "https://github.com/jurgenweber/aws-es-kibana/issues"
   },
-  "homepage": "https://github.com/santthosh/aws-es-kibana#readme",
+  "homepage": "https://github.com/jurgenweber/aws-es-kibana#readme",
   "preferGlobal": true,
   "bin": {
     "aws-es-kibana": "index.js"
