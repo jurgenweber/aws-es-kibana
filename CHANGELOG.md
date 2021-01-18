@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/jurgenweber/aws-es-kibana/compare/v1.0.0...v1.0.1) (2021-01-18)
+
+
+### Bug Fixes
+
+* entrypoint is wrong ([e39a970](https://github.com/jurgenweber/aws-es-kibana/commit/e39a970effbaaf946bd0d80aa1cc377f91db683d))
+
 # 1.0.0 (2021-01-18)
 
 
